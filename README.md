@@ -1,6 +1,6 @@
-# Linked-list
+# LINKED LIST
 
-Theory
+# Theory
 
 A linked list is a kind of linear dynamic data structure which we use to store data elements. Arrays are also a type of linear data structure where the data items are stored in continuous memory blocks.
 Unlike arrays, the linked list does not need to store data elements in contiguous memory regions or blocks.
